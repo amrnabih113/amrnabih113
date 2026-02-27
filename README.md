@@ -75,7 +75,6 @@
 
 - 🚀 Tech should solve real problems — I focus on impact, not just visuals  
 - 🧠 Always learning and mentoring others in **Flutter, BLoC & .NET**  
-- ✍ Writing technical blogs about Flutter, Firebase & .NET  
 - 💡 Motto: “Do it with passion or not at all”  
 
 ---
